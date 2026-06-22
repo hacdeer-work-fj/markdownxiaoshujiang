@@ -1,0 +1,41 @@
+# Obsidian
+.obsidian/
+.obsidian.vimrc
+workspace.json
+workspace.jsonc
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# Temp files
+*.swp
+*.swo
+*~
+.tmp
+temp/
+
+# Build outputs
+dist/
+build/
+*.pdf
+*.epub
+*.mobi
+
+# Git
+*.orig
+*.bak
+*.patch
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
